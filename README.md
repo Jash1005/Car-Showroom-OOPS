@@ -55,8 +55,7 @@ ENTER YOUR CHOICE: 1
 | `utility` interface | Defines `set_details()` and `get_details()` methods implemented by all classes |
 
 ---
-Showroom Name: City Wheels
-Showroom Address: Mumbai
-Manager Name: Rahul Sharma
-Total number of Employee: 5
-Total cars in Stock: 12
+ # Concepts Used
+ 1. Interface
+ 2. Overriding
+ 3. Polymorphism
